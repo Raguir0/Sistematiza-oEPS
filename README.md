@@ -7,10 +7,9 @@ Sistematiza-oEPS é um projeto de lista de tarefas (To-Do List) desenvolvido em 
       Listar todas as tarefas cadastradas.
       Editar detalhes de tarefas existentes.
       Marcar tarefas como concluídas.
+      Remover tarefas da lista.​
 
-- Remover tarefas da lista.​
-  
-      Tecnologias Utilizadas
+- Tecnologias Utilizadas
       Linguagem: C#
       Framework: .NET
 
