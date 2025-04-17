@@ -1,0 +1,14 @@
+C:\SistematzaçãoEPS\toDoList\TodoListApp\bin\Debug\net9.0\TodoListApp.exe
+C:\SistematzaçãoEPS\toDoList\TodoListApp\bin\Debug\net9.0\TodoListApp.deps.json
+C:\SistematzaçãoEPS\toDoList\TodoListApp\bin\Debug\net9.0\TodoListApp.runtimeconfig.json
+C:\SistematzaçãoEPS\toDoList\TodoListApp\bin\Debug\net9.0\TodoListApp.dll
+C:\SistematzaçãoEPS\toDoList\TodoListApp\bin\Debug\net9.0\TodoListApp.pdb
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.AssemblyInfoInputs.cache
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.AssemblyInfo.cs
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.csproj.CoreCompileInputs.cache
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.dll
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\refint\TodoListApp.dll
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.pdb
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\TodoListApp.genruntimeconfig.cache
+C:\SistematzaçãoEPS\toDoList\TodoListApp\obj\Debug\net9.0\ref\TodoListApp.dll
