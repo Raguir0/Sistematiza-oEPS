@@ -20,5 +20,6 @@ Sistematiza-oEPS é um projeto de lista de tarefas (To-Do List) desenvolvido em 
      Framework: .NET
 
 - Como Executar
-      Clone o repositório e abra o projeto no Visual Studio ou em outro ambiente de desenvolvimento C#.​
-      Compile e execute o projeto.
+     Clone o repositório e abra o projeto no Visual Studio ou em outro ambiente de desenvolvimento C#.​
+  
+     Compile e execute o projeto.
