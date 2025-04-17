@@ -4,10 +4,14 @@ Sistematiza-oEPS é um projeto de lista de tarefas (To-Do List) desenvolvido em 
  - Funcionalidades 
    
     Adicionar novas tarefas com descrição, prazo e prioridade.
+   
     Listar todas as tarefas cadastradas.
+   
     Editar detalhes de tarefas existentes.
+   
     Marcar tarefas como concluídas.
-    Remover tarefas da lista.​
+   
+    Remover tarefas da lista.
 
 - Tecnologias Utilizadas
 
